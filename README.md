@@ -1,5 +1,6 @@
 # DeepLeaningFromScratch
 Study using deep leaning from scratch book
+
 keep updating..
 
 #### Book info
