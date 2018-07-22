@@ -1,7 +1,7 @@
 # DeepLeaningFromScratch
-Study using deep leaning from scratch book
+Study using book "deep leaning from scratch"
 
-keep updating..
+keep updating.
 
 #### Book info
 https://www.slideshare.net/wegra/ss-70456623
